@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNQ/vCqBBCb4Tkc6DG+vys9TJhjXfmHV07b2WSrZQUMXxFxALOS60anAt8DO8pYetYVozv0ozOdsiED7NOF8cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\1\\WebApiValuesServices-master\\WebApiValuesServices\\WebApiValuesServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
